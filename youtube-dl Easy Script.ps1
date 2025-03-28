@@ -1,11 +1,4 @@
 <#
-# =====================================
-#        Script Author: ThioJoe
-#        Github.com/ThioJoe
-# =====================================
-#        Version: 1.3
-# =====================================
-
 # ----------------------------------- IMPORTANT STUFF -----------------------------------------
 #
 # THIS SCRIPT REQUIRES the "youtube-dl" program: https://yt-dl.org/
@@ -13,7 +6,6 @@
 # Direct link to latest youtube-dl executable: https://yt-dl.org/latest/youtube-dl.exe
 # YouTube-dl documentation: https://github.com/ytdl-org/youtube-dl/blob/master/README.md#readme
 # Supported sites for Downloading: https://ytdl-org.github.io/youtube-dl/supportedsites.html
-# See this script's Readme for more details
 # ---------------------------------------------------------------------------------------------
 
 
